@@ -14,7 +14,7 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
   },
-  "homepage": "https://iteration-0.github.io/micro-frontend-home-react",
+  "homepage": "https://mfe.main.sunwei.xyz",
   "scripts": {
     "start": "PORT=4000 react-scripts start",
     "build": "react-scripts build",
