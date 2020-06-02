@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.caabde45.chunk.js",
-    "main.js.map": "/static/js/main.caabde45.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0b44ff58.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0b44ff58.js.map",
-    "static/js/2.eb2ac439.chunk.js": "/static/js/2.eb2ac439.chunk.js",
-    "static/js/2.eb2ac439.chunk.js.map": "/static/js/2.eb2ac439.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.aeff4d77feea9f4d18ef224d0dd4ef43.js": "/precache-manifest.aeff4d77feea9f4d18ef224d0dd4ef43.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.eb2ac439.chunk.js.LICENSE.txt": "/static/js/2.eb2ac439.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/micro-frontend-home-react/static/css/main.5f361e03.chunk.css",
+    "main.js": "/micro-frontend-home-react/static/js/main.680bdeda.chunk.js",
+    "main.js.map": "/micro-frontend-home-react/static/js/main.680bdeda.chunk.js.map",
+    "runtime-main.js": "/micro-frontend-home-react/static/js/runtime-main.26c79453.js",
+    "runtime-main.js.map": "/micro-frontend-home-react/static/js/runtime-main.26c79453.js.map",
+    "static/js/2.eb2ac439.chunk.js": "/micro-frontend-home-react/static/js/2.eb2ac439.chunk.js",
+    "static/js/2.eb2ac439.chunk.js.map": "/micro-frontend-home-react/static/js/2.eb2ac439.chunk.js.map",
+    "index.html": "/micro-frontend-home-react/index.html",
+    "precache-manifest.d934baca8987a858f56284a381a31283.js": "/micro-frontend-home-react/precache-manifest.d934baca8987a858f56284a381a31283.js",
+    "service-worker.js": "/micro-frontend-home-react/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/micro-frontend-home-react/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.eb2ac439.chunk.js.LICENSE.txt": "/micro-frontend-home-react/static/js/2.eb2ac439.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/micro-frontend-home-react/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0b44ff58.js",
+    "static/js/runtime-main.26c79453.js",
     "static/js/2.eb2ac439.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.caabde45.chunk.js"
+    "static/js/main.680bdeda.chunk.js"
   ]
 }
