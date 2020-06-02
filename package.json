@@ -2,6 +2,10 @@
   "name": "@micro-frontend/home",
   "version": "0.1.0",
   "private": true,
+  "description": "Micro frontend home service",
+  "repository": "git@github.com:iteration-0/micro-frontend-home-react.git",
+  "author": "Wayde Sun",
+  "license": "MIT",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
